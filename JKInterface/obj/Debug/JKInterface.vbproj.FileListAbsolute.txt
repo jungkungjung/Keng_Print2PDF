@@ -1,0 +1,70 @@
+D:\MainProject\Keng_Print2PDF\JKInterface\JKInterface\bin\Debug\JKInterface.exe.config
+D:\MainProject\Keng_Print2PDF\JKInterface\JKInterface\bin\Debug\JKInterface.exe
+D:\MainProject\Keng_Print2PDF\JKInterface\JKInterface\bin\Debug\JKInterface.pdb
+D:\MainProject\Keng_Print2PDF\JKInterface\JKInterface\bin\Debug\JKInterface.xml
+D:\MainProject\Keng_Print2PDF\JKInterface\JKInterface\obj\Debug\JKInterface.Mainmenu.resources
+D:\MainProject\Keng_Print2PDF\JKInterface\JKInterface\obj\Debug\JKInterface.Resources.resources
+D:\MainProject\Keng_Print2PDF\JKInterface\JKInterface\obj\Debug\JKInterface.vbproj.GenerateResource.cache
+D:\MainProject\Keng_Print2PDF\JKInterface\JKInterface\obj\Debug\JKInterface.vbproj.CoreCompileInputs.cache
+D:\MainProject\Keng_Print2PDF\JKInterface\JKInterface\obj\Debug\JKInterface.exe
+D:\MainProject\Keng_Print2PDF\JKInterface\JKInterface\obj\Debug\JKInterface.xml
+D:\MainProject\Keng_Print2PDF\JKInterface\JKInterface\obj\Debug\JKInterface.pdb
+D:\MainProject\Keng_Print2PDF\JKInterface\JKInterface\obj\Debug\JKInterface.db_connection.resources
+D:\MainProject\Keng_Print2PDF\JKInterface\JKInterface\bin\Debug\DB_Config.ini
+D:\MainProject\Keng_Print2PDF\JKInterface\JKInterface\bin\Debug\RPT\FRM_INV1001.RPT
+D:\MainProject\Keng_Print2PDF\JKInterface\JKInterface\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\MainProject\Keng_Print2PDF\JKInterface\JKInterface\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\MainProject\Keng_Print2PDF\JKInterface\JKInterface\bin\Debug\CrystalDecisions.Shared.dll
+D:\MainProject\Keng_Print2PDF\JKInterface\JKInterface\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\MainProject\Keng_Print2PDF\JKInterface\JKInterface\bin\Debug\stdole.dll
+D:\MainProject\Keng_Print2PDF\JKInterface\JKInterface\obj\Debug\JKInterface.vbproj.CopyComplete
+D:\MainProject\Keng_Print2PDF\JKInterface\JKInterface\obj\Debug\JKInterface.doc_tab.resources
+D:\MainProject\Keng_Print2PDF\JKInterface\JKInterface\obj\Debug\JKInterface.vbproj.AssemblyReference.cache
+D:\MainProject\Keng_Print2PDF\JKInterface\JKInterface\obj\Debug\JKInterface.preview.resources
+D:\MainProject\Keng_Print2PDF\JKInterface\JKInterface\bin\Debug\Rpt\DOC10604.RPT
+D:\MainProject\Keng_Print2PDF\JKInterface\JKInterface\bin\Debug\Rpt\DOC10604_Sarabun.RPT
+D:\MainProject\Keng_Print2PDF\JKInterface\JKInterface\bin\Debug\Font\ARIALUNI.TTF
+D:\MainProject\Keng_Print2PDF\JKInterface\JKInterface\bin\Debug\Font\THSarabun Bold Italic.ttf
+D:\MainProject\Keng_Print2PDF\JKInterface\JKInterface\bin\Debug\Font\THSarabun Bold.ttf
+D:\MainProject\Keng_Print2PDF\JKInterface\JKInterface\bin\Debug\Font\THSarabun BoldItalic.ttf
+D:\MainProject\Keng_Print2PDF\JKInterface\JKInterface\bin\Debug\Font\THSarabun Italic.ttf
+D:\MainProject\Keng_Print2PDF\JKInterface\JKInterface\bin\Debug\Font\THSarabun.ttf
+D:\MainProject\Keng_Print2PDF\JKInterfaceClass\JKInterface\bin\Debug\DB_Config.ini
+D:\MainProject\Keng_Print2PDF\JKInterfaceClass\JKInterface\bin\Debug\Rpt\DOC10604_Sarabun.RPT
+D:\MainProject\Keng_Print2PDF\JKInterfaceClass\JKInterface\bin\Debug\Font\ARIALUNI.TTF
+D:\MainProject\Keng_Print2PDF\JKInterfaceClass\JKInterface\bin\Debug\Font\THSarabun Bold Italic.ttf
+D:\MainProject\Keng_Print2PDF\JKInterfaceClass\JKInterface\bin\Debug\Font\THSarabun Bold.ttf
+D:\MainProject\Keng_Print2PDF\JKInterfaceClass\JKInterface\bin\Debug\Font\THSarabun BoldItalic.ttf
+D:\MainProject\Keng_Print2PDF\JKInterfaceClass\JKInterface\bin\Debug\Font\THSarabun Italic.ttf
+D:\MainProject\Keng_Print2PDF\JKInterfaceClass\JKInterface\bin\Debug\Font\THSarabun.ttf
+D:\MainProject\Keng_Print2PDF\JKInterfaceClass\JKInterface\bin\Debug\Rpt\DOC10704_Sarabun.RPT
+D:\MainProject\Keng_Print2PDF\JKInterfaceClass\JKInterface\bin\Debug\Rpt\DOC20701.Sarabun.rpt
+D:\MainProject\Keng_Print2PDF\JKInterfaceClass\JKInterface\bin\Debug\Rpt\DOC10602_2.Sarabun.RPT
+D:\MainProject\Keng_Print2PDF\JKInterfaceClass\JKInterface\bin\Debug\Rpt\DOC20101_Sarabun.rpt
+D:\MainProject\Keng_Print2PDF\JKInterfaceClass\JKInterface\bin\Debug\Rpt\DOC20201_Sarabun.rpt
+D:\MainProject\Keng_Print2PDF\JKInterfaceClass\JKInterface\bin\Debug\JKInterface.exe.config
+D:\MainProject\Keng_Print2PDF\JKInterfaceClass\JKInterface\bin\Debug\JKInterface.exe
+D:\MainProject\Keng_Print2PDF\JKInterfaceClass\JKInterface\bin\Debug\JKInterface.pdb
+D:\MainProject\Keng_Print2PDF\JKInterfaceClass\JKInterface\bin\Debug\JKInterface.xml
+D:\MainProject\Keng_Print2PDF\JKInterfaceClass\JKInterface\bin\Debug\CenterClass.exe
+D:\MainProject\Keng_Print2PDF\JKInterfaceClass\JKInterface\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\MainProject\Keng_Print2PDF\JKInterfaceClass\JKInterface\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\MainProject\Keng_Print2PDF\JKInterfaceClass\JKInterface\bin\Debug\CrystalDecisions.Shared.dll
+D:\MainProject\Keng_Print2PDF\JKInterfaceClass\JKInterface\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\MainProject\Keng_Print2PDF\JKInterfaceClass\JKInterface\bin\Debug\stdole.dll
+D:\MainProject\Keng_Print2PDF\JKInterfaceClass\JKInterface\bin\Debug\CenterClass.pdb
+D:\MainProject\Keng_Print2PDF\JKInterfaceClass\JKInterface\bin\Debug\CenterClass.xml
+D:\MainProject\Keng_Print2PDF\JKInterfaceClass\JKInterface\bin\Debug\CenterClass.exe.config
+D:\MainProject\Keng_Print2PDF\JKInterfaceClass\JKInterface\obj\Debug\JKInterface.vbproj.AssemblyReference.cache
+D:\MainProject\Keng_Print2PDF\JKInterfaceClass\JKInterface\obj\Debug\JKInterface.db_connection.resources
+D:\MainProject\Keng_Print2PDF\JKInterfaceClass\JKInterface\obj\Debug\JKInterface.doc_tab.resources
+D:\MainProject\Keng_Print2PDF\JKInterfaceClass\JKInterface\obj\Debug\JKInterface.Mainmenu.resources
+D:\MainProject\Keng_Print2PDF\JKInterfaceClass\JKInterface\obj\Debug\JKInterface.Resources.resources
+D:\MainProject\Keng_Print2PDF\JKInterfaceClass\JKInterface\obj\Debug\JKInterface.preview.resources
+D:\MainProject\Keng_Print2PDF\JKInterfaceClass\JKInterface\obj\Debug\JKInterface.vbproj.GenerateResource.cache
+D:\MainProject\Keng_Print2PDF\JKInterfaceClass\JKInterface\obj\Debug\JKInterface.vbproj.CoreCompileInputs.cache
+D:\MainProject\Keng_Print2PDF\JKInterfaceClass\JKInterface\obj\Debug\JKInterface.exe
+D:\MainProject\Keng_Print2PDF\JKInterfaceClass\JKInterface\obj\Debug\JKInterface.xml
+D:\MainProject\Keng_Print2PDF\JKInterfaceClass\JKInterface\obj\Debug\JKInterface.pdb
+D:\MainProject\Keng_Print2PDF\JKInterfaceClass\JKInterface\bin\Debug\Rpt\DOC12802_Sarabun.RPT
+D:\MainProject\Keng_Print2PDF\JKInterfaceClass\JKInterface\obj\Debug\JKInterf.CE76B85F.Up2Date
